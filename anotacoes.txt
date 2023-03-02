@@ -1,0 +1,23 @@
+###M0 - Boas-Vindas
+    
+    1. Orientação sobre como o curso irá funcionar. Mostrou um pouco sobre os assuntos que serão bordados durante esse curso. 
+
+### Configurando o VS Code
+    * Extensões
+        * dotENV
+        * Bracket Pair Colorizer
+        * EditorConfig for VS Code 
+        * ESLint
+        * indent-rainbow
+        * lucy (julietteprelot tema)
+        * Markdown All in One
+        * Markdownlint
+        * Path Intellisense (Christian Kohler)
+        * Prettier - Code formatter
+            * (assistir o vídeo de config)
+        * Settings Sync (Shan Khan)
+        * vscode-icons
+
+
+
+
